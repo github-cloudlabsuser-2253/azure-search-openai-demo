@@ -143,7 +143,37 @@ isodate==0.6.1
     #   msrest
 itsdangerous==2.1.2
     # via
-    #   flask
+    #   flask# Backend Application Documentation
+
+## Requirements
+
+### System Requirements
+- Operating System: Specify the operating system(s) your backend can run on.
+- Memory: Specify the minimum and recommended RAM.
+- Storage: Specify the minimum and recommended storage space.
+
+### Software Requirements
+- Runtime Environment: Specify the runtime environment (like Node.js, Python, Java etc.) and its version.
+- Database: Specify the database system (like MySQL, PostgreSQL, MongoDB etc.) and its version.
+- Other Software: List any other necessary software and their versions.
+
+### Dependencies
+List all the libraries and frameworks that your backend application depends on, along with their versions.
+
+### Environment Variables
+List all the environment variables that your application uses, along with a brief description of each.
+
+### Hardware Requirements
+If there are any specific hardware requirements, list them here.
+
+### Network Requirements
+If there are any specific network requirements (like certain ports that need to be open), list them here.
+
+### Security Requirements
+If there are any specific security requirements (like SSL/TLS for HTTPS), list them here.
+
+### Other Requirements
+If there are any other requirements, list them here.
     #   quart
 jinja2==3.1.3
     # via
